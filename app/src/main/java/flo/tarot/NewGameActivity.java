@@ -97,6 +97,7 @@ public class NewGameActivity extends AppCompatActivity {
             intent_newGame.putExtra(J5, "no");
         }
         finish();
+        MainActivity.load = false;
         startActivity(intent_newGame);
         return super.onOptionsItemSelected(item);
     }

@@ -13,6 +13,8 @@ import android.widget.ListView;
 public class MainActivity extends AppCompatActivity {
     private ListView liste;
     static private String[] menu = {"Nouvelle Partie", "Charger Partie"};
+    static public Game game;
+    static public boolean load = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

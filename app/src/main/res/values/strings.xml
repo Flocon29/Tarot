@@ -60,8 +60,8 @@
     <string name="pref_ringtone_silent">Silent</string>
 
     <string name="pref_title_vibrate">Vibrate</string>
-    <string name="title_activity_new_game">NewGameActivity</string>
-    <string name="title_activity_load_game">LoadGameActivity</string>
-    <string name="title_activity_game">GameActivity</string>
-    <string name="title_activity_new_hand">NewHandActivity</string>
+    <string name="title_activity_new_game">Nouvelle Partie</string>
+    <string name="title_activity_load_game">Charger une Partie</string>
+    <string name="title_activity_game">Tableau des Scores</string>
+    <string name="title_activity_new_hand">Nouvelle Main</string>
 </resources>
